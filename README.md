@@ -1,2 +1,0 @@
-# kafra-bot
-Nothing
